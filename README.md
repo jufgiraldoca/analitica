@@ -1,0 +1,2 @@
+# analitica
+proyects_analitica_de_datos
